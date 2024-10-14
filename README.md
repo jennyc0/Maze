@@ -1,12 +1,8 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
+Maze Generator
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Implementation of a variety of maze generation algorithms:
+Dijkstra's algorithm, Wilson's algorithm, Aldous-Broder algorithm, Binary Tree algorithm, and Sidewinder algorithm
+
+The displayed maze's background will be highlighted in contrasting colors based on the distances from the starting point. Travel through the maze with arrow keys. 
