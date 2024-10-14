@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Wilson
+comment1.params=
+comment1.target=Wilson()
+comment2.params=a\ b
+comment2.target=Wilson(int,\ int)
+comment3.params=
+comment3.target=void\ generateMaze()
+numComments=4

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BinaryTree
+comment1.params=
+comment1.target=BinaryTree()
+comment2.params=a\ b
+comment2.target=BinaryTree(int,\ int)
+comment3.params=
+comment3.target=void\ generateMaze()
+numComments=4

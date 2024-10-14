@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Dijkstra
+comment1.params=maze
+comment1.target=void\ dijkstra(IMaze)
+comment2.params=maze\ start
+comment2.target=void\ dijkstra(IMaze,\ ICell)
+comment3.params=current\ level\ open
+comment3.target=void\ dijkstra(ICell,\ int,\ boolean)
+comment4.params=
+comment4.target=void\ resetDistance()
+comment5.params=maze
+comment5.target=ICell[]\ getLongestPath(IMaze)
+comment6.params=maze\ max
+comment6.target=ICell[]\ getLongestPath(IMaze,\ int)
+numComments=7

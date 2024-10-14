@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SideWinder
+comment1.params=
+comment1.target=SideWinder()
+comment2.params=rows\ cols
+comment2.target=SideWinder(int,\ int)
+comment3.params=
+comment3.target=void\ generateMaze()
+numComments=4

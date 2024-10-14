@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=ICell
+comment1.params=
+comment1.target=void\ setVisited()
+comment10.params=
+comment10.target=int\ getDistance()
+comment2.params=b
+comment2.target=void\ setVisited(boolean)
+comment3.params=
+comment3.target=boolean\ getVisited()
+comment4.params=d
+comment4.target=void\ setOpen(Direction)
+comment5.params=d
+comment5.target=boolean\ canMove(Direction)
+comment6.params=
+comment6.target=boolean[]\ getOpenArray()
+comment7.params=adj
+comment7.target=void\ setAdj(ICell[])
+comment8.params=
+comment8.target=ICell[]\ getAdj()
+comment9.params=d
+comment9.target=void\ setDistance(int)
+numComments=11
