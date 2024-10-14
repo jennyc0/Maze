@@ -1,0 +1,8 @@
+# BlueJ files
+*.ctxt
+package.bluej
+
+
+/bin/ #Ignore the bin directory
+
+
